@@ -1,0 +1,24 @@
+{
+  "name": "nbm-note-taker",
+  "version": "1.0.0",
+  "description": "App that takes in user inputs through inquirer prompts to generate notes that can be logged saved and deleted.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanMilburn/NBM-Note-Taker.git"
+  },
+  "author": "NathanMilburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanMilburn/NBM-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/NathanMilburn/NBM-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "inquirer": "^8.2.0"
+  }
+}
