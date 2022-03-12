@@ -4,7 +4,7 @@
   "description": "App that takes in user inputs through inquirer prompts to generate notes that can be logged saved and deleted.",
   "main": "server.js",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "start": "node server.js"
   },
   "repository": {
@@ -19,7 +19,7 @@
   "homepage": "https://github.com/NathanMilburn/NBM-Note-Taker#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "inquirer": "^8.2.0"
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "jest": "^27.5.1"
