@@ -1,6 +1,5 @@
 const router = require('express').Router();
 const fs = require('fs');
-// const db = require('../db')
 const path = require('path');
 const uuid = require('uuid');
 
