@@ -19,7 +19,7 @@ APIRoutes.js file:
 ![apiRoutes](./public/assets/images/apiRoutes-js.PNG "API Routes for GET and POST requests")
 
 Application in use: 
-[ApplicationInUse](./public/assets/images/application-in-use.png "Application in Use")
+![ApplicationInUse](./public/assets/images/application-in-use.png "Application in Use")
 
 Link to Application: 
 [ApplicationLink](https://safe-scrubland-81403.herokuapp.com/ "Note Taker Application")
